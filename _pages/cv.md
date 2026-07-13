@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics}{Université de Sherbrooke}{Canada}
+* Ph.D in Mathematics, Université de Sherbrooke, Canada
 * M.S. in Applied Mathematics, UQTR, Canada, 2012
 * DEA, Biostatistics, {Université de Montpellier II, France
 
